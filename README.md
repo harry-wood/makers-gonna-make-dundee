@@ -24,7 +24,7 @@ Make sure you've completed a part before moving on to the next one.
 - [Part 1: Setting up the development environment](./deel_01.md).
 - [Part 2: Deploying the Website](./deel_02.md).
 - [Part 3: Creating a PMTiles Extract of Wageningen](./deel_03.md).
-- [Part 4: Preparing a GeoJSON hiking route around Wageningen](./deel_04.md).
+- [Part 4: Preparing a GeoJSON hiking route around Dundee](./deel_04.md).
 - [Part 5: Loading PMTiles with MapLibre GL JS](./deel_05.md).
 - [Part 6: Adding the hiking route to the map](./deel_06.md).
 - [Part 7: Finishing the map](./deel_07.md).
